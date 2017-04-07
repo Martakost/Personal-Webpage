@@ -38,7 +38,7 @@ header {
     width: 1024px;
     height: 888px;
     position: relative;
-    background-image: url("/img/peterbackground.png");
+    background-image: url("../img/peterbackground.png");
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
