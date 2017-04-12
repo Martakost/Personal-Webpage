@@ -70,6 +70,11 @@ h1 {
     font-weight: bold;
     text-align: center;
     
+    
+}
+ 
+h1.clear {
+    clear: both;
 }
 
 .header-button {
@@ -112,9 +117,12 @@ h2 {
     -webkit-margin-end: 0px;
     font-weight: bold;
     text-align: center;
+    clear: both;
     
     
 }
+
+
 
 .heading {
     font-size: 70px;
